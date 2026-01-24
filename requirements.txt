@@ -16,3 +16,5 @@ langchain_chroma
 pypdf
 streamlit
 langchain_groq
+sentence-transformers
+langchain_huggingface
